@@ -1,0 +1,1 @@
+kubectl -n weave port-forward svc/weave-scope-app 4040:80
